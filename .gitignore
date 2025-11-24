@@ -1,0 +1,23 @@
+# Planning documents (should not be committed)
+plan.md
+ideas.md
+scratch_notes.md
+research.md
+
+# CLAUDE.md should be ignored in git per user instructions
+CLAUDE.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
