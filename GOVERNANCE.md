@@ -1,6 +1,6 @@
 # Annotation Garden Governance
 
- [!WARNING] 
+> [!WARNING] 
 > **Draft** - This documentation is under development.
 
 ## Mission
