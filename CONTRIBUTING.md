@@ -1,5 +1,9 @@
 # Contributing to Annotation Garden
 
+
+> [!WARNING] 
+> **Draft** - This documentation is under development.
+
 Thank you for your interest in contributing to the Annotation Garden Initiative! This document provides guidelines for contributing across all AGI repositories.
 
 ## Quick Start
