@@ -1,4 +1,4 @@
-<img alt="Annotation Garden Initiative" src="https://raw.githubusercontent.com/Annotation-Garden/assets/main/AGI-square.svg" width="120" align="right">
+<img alt="Annotation Garden Initiative" src="https://avatars.githubusercontent.com/u/229334817?s=200&v=4" width="120" align="right">
 
 # Annotation Garden Initiative
 
