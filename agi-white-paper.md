@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The Annotation Garden Initiative (AGI) establishes an open infrastructure for collaborative, multi-layered annotation of stimuli used in neuroscience research. Building on emerging standards including stimuli-BIDS (BEP042) and HED specifications, AGI addresses the critical gap between increasingly complex naturalistic stimuli and the need for standardized, reusable annotations. Through GitHub-based version control and modern web interfaces, AGI enables researchers to share, refine, and build upon stimulus annotations across studies, transforming how we document and analyze brain responses to complex sensory experiences.
+The Annotation Garden Initiative (AGI) establishes an open infrastructure for collaborative, multi-layered annotation of stimuli used in neuroscience research. Building on emerging standards including Stim-BIDS (BEP044) and HED specifications, AGI addresses the critical gap between increasingly complex naturalistic stimuli and the need for standardized, reusable annotations. Through GitHub-based version control and modern web interfaces, AGI enables researchers to share, refine, and build upon stimulus annotations across studies, transforming how we document and analyze brain responses to complex sensory experiences.
 
 ## The Fragmentation Problem
 
@@ -51,7 +51,7 @@ Multi-agent AI assistants accelerate annotation through automated tools: Whisper
 
 ## Integration with Existing Infrastructure
 
-AGI synthesizes rather than replaces existing tools. HED provides the semantic framework for annotations, ensuring machine-readable, hierarchical event descriptions. The stimuli-BIDS specification, merging into the main specification by end of 2025, standardizes how annotations integrate with neuroimaging datasets. OpenNeuro datasets can reference AGI annotations through unique identifiers, enabling researchers to combine neural data with rich stimulus descriptions without duplication.
+AGI synthesizes rather than replaces existing tools. HED provides the semantic framework for annotations, ensuring machine-readable, hierarchical event descriptions. The Stim-BIDS specification (BEP044), currently in final review for BIDS version 1.11.0, standardizes how annotations integrate with neuroimaging datasets. OpenNeuro datasets can reference AGI annotations through unique identifiers, enabling researchers to combine neural data with rich stimulus descriptions without duplication.
 
 The platform bridges tool-specific formats through import pipelines: ELAN projects convert to BIDS events, Praat TextGrids map to continuous annotations, existing lab-specific formats transform into standardized structures. Export functionality reverses this process, ensuring researchers can work with familiar tools while contributing to the commons.
 
