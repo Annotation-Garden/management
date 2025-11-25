@@ -1,5 +1,8 @@
 # Annotation Garden Governance
 
+ [!WARNING] 
+> **Draft** - This documentation is under development.
+
 ## Mission
 
 The Annotation Garden Initiative (AGI) establishes an open infrastructure for collaborative, multi-layered annotation of stimuli used in neuroscience research.
