@@ -1,5 +1,9 @@
 # Annotation Garden Initiative: Vision
 
+
+> [!WARNING] 
+> **Draft** - This documentation is under development.
+
 ## The Future We're Building
 
 Imagine a world where every annotation of a naturalistic stimulus becomes a permanent contribution to scientific knowledge. Where a graduate student's careful scene boundary annotations of a movie clip accumulate with thousands of other perspectives across labs, forming a rich, multi-layered understanding that any researcher can build upon.
