@@ -2,6 +2,24 @@
 
 Thank you for your interest in contributing to the Annotation Garden Initiative! This document provides guidelines for contributing across all AGI repositories.
 
+## Quick Start
+
+```bash
+# Clone the repository you want to contribute to
+git clone https://github.com/Annotation-Garden/<repo-name>.git
+cd <repo-name>
+
+# Create a feature branch
+git checkout -b feature/your-feature-name
+
+# Make changes, test, and commit
+git add .
+git commit -m "Add your descriptive commit message"
+
+# Push and create PR
+git push -u origin feature/your-feature-name
+```
+
 ## General Principles
 
 1. **Open Science**: All contributions should advance open, reproducible science
@@ -71,6 +89,36 @@ When making contributions that span multiple repositories:
 2. Create linked issues in each affected repository
 3. Reference the management issue in PRs for traceability
 4. Example: "See Annotation-Garden/management#123 for context"
+
+## Development Setup
+
+### Image Annotation Tool
+
+```bash
+# Backend (Python)
+cd image-annotation
+pip install -e .
+pytest tests/ --cov
+
+# Frontend (Next.js)
+cd frontend
+npm install
+npm run dev
+```
+
+### Website
+
+```bash
+cd website
+npm install
+npm run dev
+```
+
+### Running Tests
+
+Each repository has its own testing setup. Generally:
+- Python: `pytest tests/ --cov`
+- TypeScript/JavaScript: `npm test`
 
 ## Questions?
 
