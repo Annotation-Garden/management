@@ -68,9 +68,7 @@ This management repository contains governance and coordination documents for th
 
 | Repository | Purpose |
 |------------|---------|
-| [website](https://github.com/Annotation-Garden/annotation-garden.github.io) | Landing page at annotation.garden |
 | [image-annotation](https://github.com/Annotation-Garden/image-annotation) | VLM-powered annotation tool |
-| [assets](https://github.com/Annotation-Garden/assets) | Logos, design guidelines |
 
 ---
 
