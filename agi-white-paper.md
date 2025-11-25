@@ -12,7 +12,9 @@ Current approaches fragment across tools (ELAN, Praat, custom scripts), formats 
 
 ## Architecture for Collaboration
 
-AGI implements a hub-and-spoke architecture where each stimulus becomes a collaborative repository. We begin with three flagship datasets that exemplify the platform's value:
+AGI implements a hub-and-spoke architecture where each stimulus becomes a collaborative repository, with Git branches serving as annotation layers. This "branches as layers" model enables independent development of different annotation perspectives—scene boundaries, emotional arcs, object detection that can be stacked, compared, and merged through standard Git workflows. Researchers fork repositories to create their own annotation perspectives, then contribute back through pull requests, enabling the community to cultivate shared understanding while preserving individual viewpoints.
+
+We begin with three flagship datasets that exemplify the platform's value:
 
 **Natural Scenes Dataset (NSD)**: 73,000 COCO images viewed by participants during 7T fMRI scanning. AGI hosts a single repository (github.com/annotation-garden/nsd-stimuli) containing the stimulus identifiers and accumulating annotation layers: object detection, scene categorization, emotional ratings, visual saliency maps. Each annotation type exists as a versioned directory following stimuli-BIDS specifications, with standardized events.tsv files and accompanying JSON sidecars defining the annotation schema.
 
@@ -37,7 +39,13 @@ stimulus-name/
 └── LICENSE
 ```
 
-Version control through Git enables sophisticated collaboration patterns. Researchers propose new annotations via pull requests, with automated HED validation ensuring compatibility. GitHub Issues become discussion threads for annotation decisions—"Should character emotion be annotated continuously or at scene changes?"—creating transparent documentation of annotation philosophy. The GitHub API powers a modern web frontend at annotation.garden, where researchers visualize annotations overlaid on stimuli, compare different annotation layers, and seamlessly contribute improvements without command-line expertise.
+Version control through Git enables sophisticated collaboration patterns. Researchers propose new annotations via pull requests, with automated HED validation ensuring compatibility. GitHub Issues become discussion threads for annotation decisions—"Should character emotion be annotated continuously or at scene changes?"—creating transparent documentation of annotation philosophy. The GitHub API powers a modern web frontend at annotation.garden, where researchers can:
+
+- **Visualize annotation layers**: See different branches (perspectives) overlaid on stimuli, understanding how scene boundaries, emotional arcs, and object detection align or diverge
+- **Connect to brain dynamics**: Link annotations with neuroimaging data to explore how stimulus features map to neural responses across time
+- **Compare across dimensions**: Analyze how annotations relate to brain activity across different modalities (fMRI, EEG, MEG), populations (adults, children, clinical groups), tasks, and environmental contexts
+
+This integrated visualization transforms AGI from a data repository into an analysis platform, enabling discoveries that span the boundary between stimulus, annotation, and neural response.
 
 Multi-agent AI assistants accelerate annotation through automated tools: Whisper for dialogue transcription, CLIP for scene description, emotion detection models for affective ratings. These computational annotations serve as initial drafts, refined through community review. Quality metrics track inter-annotator agreement, annotation completeness, and usage statistics, incentivizing high-quality contributions through transparent impact metrics.
 
@@ -47,9 +55,16 @@ AGI synthesizes rather than replaces existing tools. HED provides the semantic f
 
 The platform bridges tool-specific formats through import pipelines: ELAN projects convert to BIDS events, Praat TextGrids map to continuous annotations, existing lab-specific formats transform into standardized structures. Export functionality reverses this process, ensuring researchers can work with familiar tools while contributing to the commons.
 
-## Enabling New Science
+## Enabling New Science: Cross-Modal Comparative Analysis
 
-AGI's collaborative annotation infrastructure enables previously infeasible analyses. Cross-dataset mega-analyses can align neural responses using shared stimulus features rather than experimental conditions. The NSD's scene categories can be mapped onto specific frames in Forrest Gump, enabling researchers to identify category-selective responses across static and dynamic viewing. HBN's developmental trajectories can be analyzed through the lens of increasing sensitivity to narrative complexity across age groups.
+AGI's collaborative annotation infrastructure enables previously infeasible cross-modal comparative analyses. By standardizing how annotations describe stimulus features, researchers can compare brain responses across multiple dimensions:
+
+- **Across modalities**: How do fMRI, EEG, and MEG responses to the same scene boundary differ in timing and localization?
+- **Across populations**: Do children and adults show different neural signatures for emotional peaks in the same movie?
+- **Across tasks**: How does directed attention vs. passive viewing change neural encoding of annotated features?
+- **Across environments**: Do lab-based and naturalistic viewing conditions produce different brain-behavior relationships?
+
+Cross-dataset mega-analyses can align neural responses using shared stimulus features rather than experimental conditions. The NSD's scene categories can be mapped onto specific frames in Forrest Gump, enabling researchers to identify category-selective responses across static and dynamic viewing. HBN's developmental trajectories can be analyzed through the lens of increasing sensitivity to narrative complexity across age groups.
 
 Machine learning approaches benefit from dense, multi-perspective annotations. The HBN-EEG dataset's role in powering the largest NeurIPS competition to date (eeg2025.github.io) demonstrates the appetite for richly annotated naturalistic neuroimaging data. The competition's success hinges on annotation quality—teams need detailed stimulus descriptors to build meaningful brain-behavior models. AGI amplifies this impact by enabling the community to collaboratively refine annotations, ensuring that future competitions and research can build on increasingly sophisticated stimulus characterizations. Rather than training encoding models on single annotation types, researchers can explore how different annotation layers explain unique variance in neural responses. The platform's version control enables reproducible science—papers can cite specific annotation versions, ensuring analyses remain reproducible even as annotations improve.
 
