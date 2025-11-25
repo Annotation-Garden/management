@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annotation-Garden/assets/main/AGI-square-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annotation-Garden/assets/main/AGI-square.svg">
-  <img alt="Annotation Garden Initiative" src="https://raw.githubusercontent.com/Annotation-Garden/assets/main/AGI-square.svg" width="120" align="right">
-</picture>
+<img alt="Annotation Garden Initiative" src="https://raw.githubusercontent.com/Annotation-Garden/assets/main/AGI-square.svg" width="120" align="right">
 
 # Annotation Garden Initiative
 
