@@ -10,7 +10,7 @@ url: https://www.headspacestudios.org/inscapes
 license: paper publisher (Elsevier); video CC-BY-NC for research use
 modalities: [fmri, behavior]
 tags: [naturalistic-video, abstract-animation, passive-viewing, low-arousal, head-motion-mitigation, developmental, mixed-ages]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 

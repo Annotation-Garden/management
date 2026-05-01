@@ -10,8 +10,8 @@ url: https://github.com/HuthLab/speechmodeltutorial
 license: paper publisher (Nature); data CC-BY (Berkeley deposit)
 modalities: [fmri-3t, audio-stimulus, behavior]
 tags: [naturalistic-audio, podcast, the-moth, semantic-atlas, adults, n=7, deep-sampling, semantic-encoding]
-agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: medium
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

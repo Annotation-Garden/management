@@ -10,7 +10,7 @@ url: https://datavyu.org
 license: GPL-3.0
 modalities: [video, audio, behavior]
 tags: [Datavyu, Databrary, video-coding, infant, developmental, manual-annotation, Ruby-scripting]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For developmental and infant-cognition stimuli (Healthy Brain Network movies, Ma
 ## Citations
 
 Primary: `datavyu2014`. Related:
-- `wittenburg2006elan` — peer multi-tier video annotation tool.
-- `friard2016boris` — peer event-logging tool.
-- `boersma2024praat` — phonetic annotation companion.
-- `gorgolewski2016bids` — target schema for BIDS export.
-- `labelstudio2020` — modern web-based alternative.
+- `wittenburg2006elan`, peer multi-tier video annotation tool.
+- `friard2016boris`, peer event-logging tool.
+- `boersma2024praat`, phonetic annotation companion.
+- `gorgolewski2016bids`, target schema for BIDS export.
+- `labelstudio2020`, modern web-based alternative.

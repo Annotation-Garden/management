@@ -51,8 +51,8 @@ AGI's mission of capturing the semantics of stimuli and responses across labs re
 ## Citations
 
 Primary: `hermes2023hedscore`. Related:
-- `robbins2021hed` — base HED schema and tooling.
-- `gorgolewski2016bids` — host data structure where HED-SCORE annotations live.
-- `delorme2004eeglab` — primary EEG analysis tool with HED integration.
-- `delorme2022nemar` — archive whose EEG datasets benefit from HED-SCORE.
-- `wilkinson2016fair` — interoperability rationale that HED libraries fulfill.
+- `robbins2021hed`, base HED schema and tooling.
+- `gorgolewski2016bids`, host data structure where HED-SCORE annotations live.
+- `delorme2004eeglab`, primary EEG analysis tool with HED integration.
+- `delorme2022nemar`, archive whose EEG datasets benefit from HED-SCORE.
+- `wilkinson2016fair`, interoperability rationale that HED libraries fulfill.

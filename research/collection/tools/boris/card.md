@@ -10,7 +10,7 @@ url: https://www.boris.unito.it/
 license: GPL-3.0
 modalities: [video, audio, behavior]
 tags: [BORIS, video-coding, ethology, behavior, manual-annotation, ELAN-export, cross-platform]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For AGI video and audio stimuli, BORIS is the natural manual-annotation entry po
 ## Citations
 
 Primary: `friard2016boris`. Related:
-- `wittenburg2006elan` — peer tool for hierarchical multi-tier annotation.
-- `boersma2024praat` — phonetic counterpart for audio.
-- `datavyu2014` — comparable open video-coding tool.
-- `gorgolewski2016bids` — target schema for bringing BORIS exports into BIDS.
-- `labelstudio2020` — modern web-based alternative for general annotation.
+- `wittenburg2006elan`, peer tool for hierarchical multi-tier annotation.
+- `boersma2024praat`, phonetic counterpart for audio.
+- `datavyu2014`, comparable open video-coding tool.
+- `gorgolewski2016bids`, target schema for bringing BORIS exports into BIDS.
+- `labelstudio2020`, modern web-based alternative for general annotation.

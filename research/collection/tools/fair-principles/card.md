@@ -51,8 +51,8 @@ FAIR is AGI's architectural ethic. Each AGI stimulus repository must satisfy: gl
 ## Citations
 
 Primary: `wilkinson2016fair`. Related:
-- `gorgolewski2016bids` — domain-specific operationalization of FAIR for neuroimaging.
-- `markiewicz2021openneuro` — repository explicitly built on FAIR.
-- `halchenko2021datalad` — FAIR-compatible distribution of code plus data.
-- `rubel2022nwb` — FAIR data language for neurophysiology.
-- `nichols2017cobidas` — community best-practice document layered on FAIR.
+- `gorgolewski2016bids`, domain-specific operationalization of FAIR for neuroimaging.
+- `markiewicz2021openneuro`, repository explicitly built on FAIR.
+- `halchenko2021datalad`, FAIR-compatible distribution of code plus data.
+- `rubel2022nwb`, FAIR data language for neurophysiology.
+- `nichols2017cobidas`, community best-practice document layered on FAIR.

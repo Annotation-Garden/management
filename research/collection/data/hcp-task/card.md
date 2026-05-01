@@ -10,8 +10,8 @@ url: https://www.humanconnectome.org/
 license: data-use-agreement (Human Connectome Project / Washington University); paper publisher
 modalities: [fmri-3t, mri-anat, dti, behavior]
 tags: [cognitive-task, working-memory, language, motor, gambling, social, emotion, relational, n=1200, adults]
-agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: medium
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

@@ -10,7 +10,7 @@ url: https://www.jneurosci.org/content/37/27/6539
 license: publisher-paywall
 modalities: [fmri]
 tags: [encoding-model, variance-partitioning, hierarchical-speech, multi-perspective, theme-7]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

@@ -51,8 +51,8 @@ mTRF is the canonical pipeline AGI annotations feed into for continuous stimuli.
 ## Citations
 
 Primary: `crosse2016mtrf`. Related:
-- `gramfort2013mne` — host environment for many TRF-style analyses in Python.
-- `delorme2004eeglab` — MATLAB host environment for the original toolbox.
-- `ehinger2019unfold` — alternative regression-deconvolution toolbox for EEG.
-- `prince2022glmsingle` — fMRI analogue for single-trial estimation.
-- `delavega2022neuroscout` — fMRI analysis platform for naturalistic stimuli.
+- `gramfort2013mne`, host environment for many TRF-style analyses in Python.
+- `delorme2004eeglab`, MATLAB host environment for the original toolbox.
+- `ehinger2019unfold`, alternative regression-deconvolution toolbox for EEG.
+- `prince2022glmsingle`, fMRI analogue for single-trial estimation.
+- `delavega2022neuroscout`, fMRI analysis platform for naturalistic stimuli.

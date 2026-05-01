@@ -51,8 +51,8 @@ For AGI's naturalistic stimuli (Forrest Gump auditory EEG, HBN-EEG passive viewi
 ## Citations
 
 Primary: `ehinger2019unfold`. Related:
-- `delorme2004eeglab` — host environment.
-- `gramfort2013mne` — Python alternative for similar analyses.
-- `crosse2016mtrf` — companion regression toolbox for continuous stimuli.
-- `prince2022glmsingle` — fMRI analogue for single-trial estimation.
-- `delavega2022neuroscout` — fMRI-side platform with overlapping ambition.
+- `delorme2004eeglab`, host environment.
+- `gramfort2013mne`, Python alternative for similar analyses.
+- `crosse2016mtrf`, companion regression toolbox for continuous stimuli.
+- `prince2022glmsingle`, fMRI analogue for single-trial estimation.
+- `delavega2022neuroscout`, fMRI-side platform with overlapping ambition.

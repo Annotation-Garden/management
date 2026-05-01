@@ -10,7 +10,7 @@ url: https://www.nature.com/articles/nature06713
 license: publisher-paywall
 modalities: [fmri]
 tags: [decoding, encoding-model, gabor, identification, voxel-wise, theme-2]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

@@ -51,8 +51,8 @@ OpenNeuro is the canonical destination for AGI-annotated derivatives. When an AG
 ## Citations
 
 Primary: `markiewicz2021openneuro`. Related:
-- `gorgolewski2016bids` — input data standard.
-- `halchenko2021datalad` — distribution backend.
-- `delorme2022nemar` — sister archive for EEG/MEG/iEEG.
-- `dandi2024` — sister archive for cellular neurophysiology.
-- `wilkinson2016fair` — guiding principles.
+- `gorgolewski2016bids`, input data standard.
+- `halchenko2021datalad`, distribution backend.
+- `delorme2022nemar`, sister archive for EEG/MEG/iEEG.
+- `dandi2024`, sister archive for cellular neurophysiology.
+- `wilkinson2016fair`, guiding principles.

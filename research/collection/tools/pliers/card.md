@@ -51,8 +51,8 @@ Pliers is the closest existing implementation of AGI's automated-annotator orche
 ## Citations
 
 Primary: `mcnamara2017pliers`. Related:
-- `delavega2022neuroscout` — primary platform built on top of Pliers.
-- `radford2021clip` — foundation model commonly wrapped as a Pliers extractor.
-- `radford2023whisper` — speech model commonly wrapped as a Pliers extractor.
-- `liu2024groundingdino` — open-set detector that fits the Pliers extractor pattern.
-- `qin2025crowdagent` — multi-agent layer that complements Pliers's static extraction.
+- `delavega2022neuroscout`, primary platform built on top of Pliers.
+- `radford2021clip`, foundation model commonly wrapped as a Pliers extractor.
+- `radford2023whisper`, speech model commonly wrapped as a Pliers extractor.
+- `liu2024groundingdino`, open-set detector that fits the Pliers extractor pattern.
+- `qin2025crowdagent`, multi-agent layer that complements Pliers's static extraction.

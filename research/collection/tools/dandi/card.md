@@ -51,8 +51,8 @@ For stimuli that drive non-human or invasive recordings (rodent two-photon viewi
 ## Citations
 
 Primary: `dandi2024`. Related:
-- `rubel2022nwb` — primary data language hosted on DANDI.
-- `markiewicz2021openneuro` — sister archive for human imaging.
-- `delorme2022nemar` — sister archive for neuroelectromagnetic data.
-- `halchenko2021datalad` — alternative versioned distribution.
-- `wilkinson2016fair` — guiding principles.
+- `rubel2022nwb`, primary data language hosted on DANDI.
+- `markiewicz2021openneuro`, sister archive for human imaging.
+- `delorme2022nemar`, sister archive for neuroelectromagnetic data.
+- `halchenko2021datalad`, alternative versioned distribution.
+- `wilkinson2016fair`, guiding principles.

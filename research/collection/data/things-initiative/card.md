@@ -11,7 +11,7 @@ license: CC-BY-4.0 (paper); object-image set has mixed Creative Commons / resear
 modalities: [fmri, meg, eeg, behavior]
 tags: [naturalistic-images, object-concepts, cross-modal, adults, n=variable, semantic-features]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

@@ -10,7 +10,7 @@ url: https://doi.org/10.1016/j.neuroimage.2010.07.073
 license: publisher-paywall
 modalities: [fmri]
 tags: [encoding-model, decoding, voxel-wise, review, ridge-regression, framework, theme-1]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

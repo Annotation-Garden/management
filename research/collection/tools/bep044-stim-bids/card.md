@@ -51,8 +51,8 @@ Stim-BIDS is the schema that AGI's entire repository structure implements. Every
 ## Citations
 
 Primary: `bep044stimbids`. Related:
-- `gorgolewski2016bids` — base specification BEP044 extends.
-- `robbins2021hed` — HED tagging used inside Stim-BIDS annotations.
-- `markiewicz2021openneuro` — anticipated host archive for AGI Stim-BIDS repositories.
-- `halchenko2021datalad` — distribution backend for stimulus sub-datasets.
-- `delavega2022neuroscout` — analysis platform that consumes Stim-BIDS-style annotations.
+- `gorgolewski2016bids`, base specification BEP044 extends.
+- `robbins2021hed`, HED tagging used inside Stim-BIDS annotations.
+- `markiewicz2021openneuro`, anticipated host archive for AGI Stim-BIDS repositories.
+- `halchenko2021datalad`, distribution backend for stimulus sub-datasets.
+- `delavega2022neuroscout`, analysis platform that consumes Stim-BIDS-style annotations.

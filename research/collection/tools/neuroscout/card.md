@@ -51,8 +51,8 @@ Neuroscout is the closest existing precedent for what AGI aims to be on the anal
 ## Citations
 
 Primary: `delavega2022neuroscout`. Related:
-- `mcnamara2017pliers` — feature-extraction backbone.
-- `gorgolewski2016bids` — input data standard.
-- `markiewicz2021openneuro` — primary archive feeding Neuroscout.
-- `esteban2019fmriprep` — preprocessing pipeline used in execution.
-- `prince2022glmsingle` — alternative single-trial estimator that complements Neuroscout's GLM.
+- `mcnamara2017pliers`, feature-extraction backbone.
+- `gorgolewski2016bids`, input data standard.
+- `markiewicz2021openneuro`, primary archive feeding Neuroscout.
+- `esteban2019fmriprep`, preprocessing pipeline used in execution.
+- `prince2022glmsingle`, alternative single-trial estimator that complements Neuroscout's GLM.

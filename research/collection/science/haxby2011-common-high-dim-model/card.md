@@ -10,7 +10,7 @@ url: https://doi.org/10.1016/j.neuron.2011.08.026
 license: publisher-paywall
 modalities: [fmri]
 tags: [hyperalignment, shared-representational-space, ventral-temporal, naturalistic-movie, theme-3]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

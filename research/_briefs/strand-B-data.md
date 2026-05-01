@@ -1,4 +1,4 @@
-# Strand B — Data Landscape (Phase 1 brief)
+# Strand B, Data Landscape (Phase 1 brief)
 
 **Goal:** populate `research/collection/data/` with at least 25 paper-cards spanning naturalistic stimuli and cognitive task datasets, with an organizing hierarchy.
 
@@ -6,22 +6,22 @@
 
 Cover six categories. The naturalistic ↔ cognitive-task spectrum is the throughline.
 
-### 1. Naturalistic — static images
+### 1. Naturalistic, static images
 - Natural Scenes Dataset (NSD): fMRI, ECoG/iEEG, EEG, MEG variants
   - NSD-fMRI (Allen 2022), NSD-iEEG (Huang 2024), NSD-EEG (Xu 2024 alljoined / Brotherwood 2024), NSD macaque unit (Li 2025 triplen)
 - THINGS initiative (Hebart 2023): fMRI, MEG, EEG with shared image set
 - BOLD5000
 - COCO + free-form captions (used for AI-supervised stimulus features)
 
-### 2. Naturalistic — video / film
+### 2. Naturalistic, video / film
 - StudyForrest (Hanke 2014, Hausler 2021); Forrest Gump 7T fMRI + 3T variants + MEG (ds003633) + eye-gaze (Hanke 2016)
 - HBN Movies: Despicable Me, The Present, Pixar shorts (Alexander 2017; Shirazi 2024 HBN-EEG)
-- "Bang! You're Dead" — Hitchcock — ds003688 / ds004798 (single-unit + iEEG + fMRI) (Aly et al.)
+- "Bang! You're Dead", Hitchcock, ds003688 / ds004798 (single-unit + iEEG + fMRI) (Aly et al.)
 - Sherlock fMRI (Chen et al.)
 - 7T-clip set / "Naturalistic Neuroimaging Database" (Aliko 2020)
-- Pixar / Inscapes (Vanderwal 2015 — passive viewing inscapes)
+- Pixar / Inscapes (Vanderwal 2015, passive viewing inscapes)
 
-### 3. Naturalistic — audio / narrative
+### 3. Naturalistic, audio / narrative
 - Pieman (Yeshurun 2017) and Pieman fMRI / EEG
 - Moth Radio Hour stories (Huth 2016)
 - Podcast / Lectures (LePelley)
@@ -38,10 +38,10 @@ Cover six categories. The naturalistic ↔ cognitive-task spectrum is the throug
 - MyConnectome (Poldrack et al.)
 
 ### 5. Hybrid / mixed paradigms
-- HCP / dHCP — resting + task + diffusion
+- HCP / dHCP, resting + task + diffusion
 - HBN-EEG combined (movies + tasks + resting)
-- LEMON (Babayan 2019) — resting + tasks
-- DEAP / SEED — emotion-elicitation video + EEG
+- LEMON (Babayan 2019), resting + tasks
+- DEAP / SEED, emotion-elicitation video + EEG
 
 ### 6. Single-stimulus benchmark sets
 - Localizer batteries (FFA / PPA localizers, motion / language localizers)
@@ -53,9 +53,9 @@ Cover six categories. The naturalistic ↔ cognitive-task spectrum is the throug
 Same folder pattern as Strand A: `research/collection/data/<slug>/{card.md, source.pdf?, source.md, meta.json}`.
 
 `type: dataset` (or `paper` for benchmark/methods papers). `strand: data`. Required front-matter must include:
-- `modalities` list — be precise
-- `license` — copyright matters for HBN movies, Forrest Gump, etc.
-- `tags` — at minimum: stimulus type (image/video/audio/task), age range, N
+- `modalities` list, be precise
+- `license`, copyright matters for HBN movies, Forrest Gump, etc.
+- `tags`, at minimum: stimulus type (image/video/audio/task), age range, N
 
 For datasets, `source.pdf` is the dataset's primary descriptor paper. `source.md` should additionally summarize key dataset README / data dictionary contents (BIDS structure, modalities, sample size, access conditions).
 

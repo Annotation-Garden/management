@@ -10,7 +10,7 @@ url: https://arxiv.org/abs/2410.02713
 license: Apache-2.0 (model and code)
 modalities: [video, text]
 tags: [video-LLM, instruction-tuning, captioning, video-QA, multimodal, open-source, dense-frame-sampling]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For AGI's video stimulus repositories (Forrest Gump, Despicable Me, The Present,
 ## Citations
 
 Primary: `zhang2024llavavideo`. Related:
-- `radford2021clip` — visual encoder feeding into LLaVA-style models.
-- `radford2023whisper` — companion speech model for audio tracks.
-- `liu2024groundingdino` — frame-level grounding to complement clip-level captions.
-- `castellano2014pyscenedetect` — preprocessor for shot boundaries before captioning.
-- `delavega2022neuroscout` — downstream consumer that could ingest LLaVA-Video features.
+- `radford2021clip`, visual encoder feeding into LLaVA-style models.
+- `radford2023whisper`, companion speech model for audio tracks.
+- `liu2024groundingdino`, frame-level grounding to complement clip-level captions.
+- `castellano2014pyscenedetect`, preprocessor for shot boundaries before captioning.
+- `delavega2022neuroscout`, downstream consumer that could ingest LLaVA-Video features.

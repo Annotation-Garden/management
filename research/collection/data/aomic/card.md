@@ -10,7 +10,7 @@ url: https://nilab-uva.github.io/AOMIC.github.io/
 license: CC-BY-4.0 (paper); CC0 (deposit)
 modalities: [fmri-3t, mri-anat, dti, behavior, phenotyping]
 tags: [cognitive-task, large-cohort, faces, stop-signal, working-memory, n=1500+, adults, students]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

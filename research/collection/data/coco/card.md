@@ -10,7 +10,7 @@ url: https://cocodataset.org/
 license: CC-BY-4.0 (annotations); Flickr image rights vary (mostly CC-BY)
 modalities: [image, behavior]
 tags: [naturalistic-images, captions, segmentation, stimulus-source, computer-vision]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

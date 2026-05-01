@@ -2,7 +2,7 @@
   "doi": "10.48550/arXiv.2405.18765",
   "source_url": "https://arxiv.org/abs/2405.18765",
   "retrieved_at": "2026-04-30",
-  "pdf_sha256": null,
+  "pdf_sha256": "2b80a450179b2cc6808fa6bb81a6b2303a8a3699d8b89af7a94d177a1abdb048",
   "pdf_license": "arXiv preprint (CC-BY-equivalent for research)",
   "redistribution_ok": true,
   "notes": "ICLR 2024 paper; arXiv preprint redistributable. Markdown via opencite convert."

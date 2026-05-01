@@ -10,7 +10,7 @@ url: https://www.nature.com/articles/nn.3635
 license: publisher-paywall
 modalities: [meg, fmri]
 tags: [meg-fmri-fusion, rsa, object-recognition, cross-modal, theme-7]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

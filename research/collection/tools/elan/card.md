@@ -10,7 +10,7 @@ url: https://archive.mpi.nl/tla/elan
 license: GPL-3.0
 modalities: [video, audio, behavior, eyetrack]
 tags: [annotation, multimodal, sign-language, video-coding, time-aligned, linguistics, MPI, Nijmegen]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 
@@ -52,7 +52,7 @@ ELAN is the dominant tool researchers reach for when annotating naturalistic vid
 ## Citations
 
 Primary: `wittenburg2006elan`. Related:
-- `friard2016boris` — comparable open-source video event logger.
-- `boersma2024praat` — companion tool for phonetic annotation, interoperates via TextGrid.
-- `mcnamara2017pliers` — programmatic alternative for automated multimodal feature extraction.
-- `gorgolewski2016bids` — target schema for bringing ELAN annotations into reproducible workflows.
+- `friard2016boris`, comparable open-source video event logger.
+- `boersma2024praat`, companion tool for phonetic annotation, interoperates via TextGrid.
+- `mcnamara2017pliers`, programmatic alternative for automated multimodal feature extraction.
+- `gorgolewski2016bids`, target schema for bringing ELAN annotations into reproducible workflows.

@@ -51,8 +51,8 @@ fMRIPrep sits on the response side of AGI's stimulus-anchored data flow. Most AG
 ## Citations
 
 Primary: `esteban2019fmriprep`. Related:
-- `gorgolewski2016bids` — input data standard.
-- `esteban2017mriqc` — companion quality-control tool.
-- `prince2022glmsingle` — downstream single-trial estimation.
-- `delavega2022neuroscout` — execution platform that wraps fMRIPrep.
-- `markiewicz2021openneuro` — primary archive of input data.
+- `gorgolewski2016bids`, input data standard.
+- `esteban2017mriqc`, companion quality-control tool.
+- `prince2022glmsingle`, downstream single-trial estimation.
+- `delavega2022neuroscout`, execution platform that wraps fMRIPrep.
+- `markiewicz2021openneuro`, primary archive of input data.

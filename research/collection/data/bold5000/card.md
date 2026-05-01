@@ -10,7 +10,7 @@ url: https://bold5000.github.io/
 license: CC-BY-4.0
 modalities: [fmri-3t, behavior]
 tags: [naturalistic-images, scenes, mixed-stimulus-set, deep-sampling, adults, n=4]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

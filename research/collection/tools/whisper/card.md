@@ -10,7 +10,7 @@ url: https://github.com/openai/whisper
 license: MIT
 modalities: [audio]
 tags: [speech-recognition, ASR, multilingual, transcription, alignment, weak-supervision, OpenAI]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For AGI's audio-bearing stimuli (Forrest Gump dialog, HBN movies, podcast-style 
 ## Citations
 
 Primary: `radford2023whisper`. Related:
-- `radford2021clip` — companion vision-language model.
-- `crosse2016mtrf` — uses speech envelope features that Whisper output can produce.
-- `boersma2024praat` — phonetic annotation tool that consumes Whisper transcripts.
-- `mcnamara2017pliers` — orchestration tool that wraps Whisper.
-- `delavega2022neuroscout` — analysis platform that ingests Whisper-derived predictors.
+- `radford2021clip`, companion vision-language model.
+- `crosse2016mtrf`, uses speech envelope features that Whisper output can produce.
+- `boersma2024praat`, phonetic annotation tool that consumes Whisper transcripts.
+- `mcnamara2017pliers`, orchestration tool that wraps Whisper.
+- `delavega2022neuroscout`, analysis platform that ingests Whisper-derived predictors.

@@ -10,7 +10,7 @@ url: https://biomedia.github.io/dHCP-release-notes/
 license: data-use-agreement (Imperial College / King's College London); paper publisher
 modalities: [fmri, mri-anat, dti, behavior]
 tags: [hybrid, neonates, resting-state, structural, n>1500, ages-23-43-weeks-pma, developmental]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 

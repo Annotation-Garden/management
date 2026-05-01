@@ -51,8 +51,8 @@ NWB sits adjacent to AGI rather than at its center. AGI's primary scope is human
 ## Citations
 
 Primary: `rubel2022nwb`. Related:
-- `gorgolewski2016bids` — sister standard for human imaging.
-- `dandi2024` — archive built on NWB.
-- `wilkinson2016fair` — guiding principles NWB operationalizes.
-- `halchenko2021datalad` — alternative versioned distribution.
-- `markiewicz2021openneuro` — peer archive on the BIDS side.
+- `gorgolewski2016bids`, sister standard for human imaging.
+- `dandi2024`, archive built on NWB.
+- `wilkinson2016fair`, guiding principles NWB operationalizes.
+- `halchenko2021datalad`, alternative versioned distribution.
+- `markiewicz2021openneuro`, peer archive on the BIDS side.

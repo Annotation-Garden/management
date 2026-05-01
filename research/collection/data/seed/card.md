@@ -10,8 +10,8 @@ url: https://bcmi.sjtu.edu.cn/home/seed/
 license: data-use-agreement (Shanghai Jiao Tong University BCMI Lab)
 modalities: [eeg, eyetrack, video, behavior]
 tags: [hybrid, emotion-elicitation, film-clips, three-emotion-classes, n=15, adults, brain-computer-interface]
-agi_relevance: medium
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: low
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

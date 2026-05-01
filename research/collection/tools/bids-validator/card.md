@@ -51,8 +51,8 @@ AGI's per-stimulus repositories must be machine-validatable for any contributor 
 ## Citations
 
 Primary: `bidsvalidator2024`. Related:
-- `gorgolewski2016bids` — specification the validator enforces.
-- `markiewicz2021openneuro` — primary deployment site.
-- `delorme2022nemar` — sister archive that runs the validator.
-- `halchenko2021datalad` — distribution pattern that benefits from validator output.
-- `bep044stimbids` — extension proposal that will need validator support.
+- `gorgolewski2016bids`, specification the validator enforces.
+- `markiewicz2021openneuro`, primary deployment site.
+- `delorme2022nemar`, sister archive that runs the validator.
+- `halchenko2021datalad`, distribution pattern that benefits from validator output.
+- `bep044stimbids`, extension proposal that will need validator support.

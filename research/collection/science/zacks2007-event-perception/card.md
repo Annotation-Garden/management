@@ -10,7 +10,7 @@ url: https://doi.org/10.1037/0033-2909.133.2.273
 license: publisher-paywall
 modalities: [behavior, fmri]
 tags: [event-segmentation-theory, event-boundaries, prediction-error, theory, theme-4]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

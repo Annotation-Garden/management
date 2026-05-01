@@ -11,7 +11,7 @@ license: data-use-agreement (Child Mind Institute); paper CC-BY
 modalities: [fmri, mri-anat, dti, eeg, behavior, phenotyping]
 tags: [naturalistic-video, hbn-movies, despicable-me, the-present, multimodal, developmental, n>5000, ages-5-21, psychiatric]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

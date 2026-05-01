@@ -10,7 +10,7 @@ url: https://www.nature.com/articles/nn.4500
 license: publisher-paywall (paper); checklist is CC-BY
 modalities: [fmri, mri]
 tags: [COBIDAS, OHBM, best-practices, reporting, transparency, reproducibility, checklist]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ COBIDAS is a procedural standard rather than a data format, but it is directly r
 ## Citations
 
 Primary: `nichols2017cobidas`. Related:
-- `wilkinson2016fair` — broader principles COBIDAS instantiates.
-- `gorgolewski2016bids` — data structure that supports several COBIDAS items.
-- `esteban2019fmriprep` — pipeline whose use simplifies COBIDAS reporting.
-- `markiewicz2021openneuro` — sharing infrastructure aligned with COBIDAS.
-- `robbins2021hed` — annotation rigor complementary to COBIDAS.
+- `wilkinson2016fair`, broader principles COBIDAS instantiates.
+- `gorgolewski2016bids`, data structure that supports several COBIDAS items.
+- `esteban2019fmriprep`, pipeline whose use simplifies COBIDAS reporting.
+- `markiewicz2021openneuro`, sharing infrastructure aligned with COBIDAS.
+- `robbins2021hed`, annotation rigor complementary to COBIDAS.

@@ -10,7 +10,7 @@ url: https://github.com/HumanSignal/label-studio
 license: Apache-2.0
 modalities: [image, video, audio, text, time-series, multimodal]
 tags: [Label-Studio, web-annotation, ML-backend, multimodal, polygons, bounding-boxes, segmentation]
-agi_relevance: high
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ Label Studio is the most plausible front-end for AGI's manual review workflow. A
 ## Citations
 
 Primary: `labelstudio2020`. Related:
-- `wittenburg2006elan` — domain-specific peer for hierarchical multi-tier annotation.
-- `friard2016boris` — peer event-logging tool.
-- `datavyu2014` — research-focused peer video-coding tool.
-- `qin2025crowdagent` — multi-agent system that complements Label Studio's manual layer.
-- `mcnamara2017pliers` — automated annotator that can feed Label Studio pre-annotations.
+- `wittenburg2006elan`, domain-specific peer for hierarchical multi-tier annotation.
+- `friard2016boris`, peer event-logging tool.
+- `datavyu2014`, research-focused peer video-coding tool.
+- `qin2025crowdagent`, multi-agent system that complements Label Studio's manual layer.
+- `mcnamara2017pliers`, automated annotator that can feed Label Studio pre-annotations.

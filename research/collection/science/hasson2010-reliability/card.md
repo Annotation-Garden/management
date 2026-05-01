@@ -10,7 +10,7 @@ url: https://doi.org/10.1016/j.tics.2009.10.011
 license: publisher-paywall
 modalities: [fmri]
 tags: [reliability, isc, naturalistic, review, theme-3]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

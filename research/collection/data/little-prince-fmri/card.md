@@ -10,7 +10,7 @@ url: https://openneuro.org/datasets/ds003643
 license: CC-BY-4.0 (paper); CC0 (deposit)
 modalities: [fmri-3t, audio-stimulus, behavior]
 tags: [naturalistic-audio, narrative, multilingual, the-little-prince, adults, n=49, english-mandarin-french]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

@@ -51,8 +51,8 @@ Hugging Face is the practical distribution path for the foundation models that u
 ## Citations
 
 Primary: `wolf2020transformers`. Related:
-- `radford2021clip` — checkpoint widely distributed via Hugging Face.
-- `radford2023whisper` — speech model on Hub.
-- `liu2024groundingdino` — vision-language detector available on Hub.
-- `zhang2024llavavideo` — video-language model on Hub.
-- `wilkinson2016fair` — FAIR principles partially fulfilled via the Hub.
+- `radford2021clip`, checkpoint widely distributed via Hugging Face.
+- `radford2023whisper`, speech model on Hub.
+- `liu2024groundingdino`, vision-language detector available on Hub.
+- `zhang2024llavavideo`, video-language model on Hub.
+- `wilkinson2016fair`, FAIR principles partially fulfilled via the Hub.

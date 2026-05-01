@@ -51,8 +51,8 @@ HED is the semantic layer that makes AGI annotations interoperable across labs a
 ## Citations
 
 Primary: `robbins2021hed`. Related:
-- `hermes2023hedscore` — first HED library schema example.
-- `gorgolewski2016bids` — host data structure.
-- `delorme2004eeglab` — primary tool with HED integration.
-- `delorme2022nemar` — archive that uses HED for search.
-- `wilkinson2016fair` — interoperability principle that HED operationalizes.
+- `hermes2023hedscore`, first HED library schema example.
+- `gorgolewski2016bids`, host data structure.
+- `delorme2004eeglab`, primary tool with HED integration.
+- `delorme2022nemar`, archive that uses HED for search.
+- `wilkinson2016fair`, interoperability principle that HED operationalizes.

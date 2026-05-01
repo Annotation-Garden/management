@@ -51,8 +51,8 @@ AGI faces exactly the problem CrowdAgent targets: a single stimulus dataset (e.g
 ## Citations
 
 Primary: `qin2025crowdagent`. Related:
-- `mcnamara2017pliers` — alternative orchestration via static feature extraction.
-- `zhang2024llavavideo` — example LLM annotator that could be plugged in.
-- `radford2021clip` — embedding model for label space prior.
-- `labelstudio2020` — manual annotation tool that complements multi-agent pipelines.
-- `delavega2022neuroscout` — analogous orchestration for fMRI features.
+- `mcnamara2017pliers`, alternative orchestration via static feature extraction.
+- `zhang2024llavavideo`, example LLM annotator that could be plugged in.
+- `radford2021clip`, embedding model for label space prior.
+- `labelstudio2020`, manual annotation tool that complements multi-agent pipelines.
+- `delavega2022neuroscout`, analogous orchestration for fMRI features.

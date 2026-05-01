@@ -51,8 +51,8 @@ MNE-Python is the second major analysis endpoint for AGI annotations after EEGLA
 ## Citations
 
 Primary: `gramfort2013mne`. Related:
-- `delorme2004eeglab` — MATLAB peer; many users move data between the two.
-- `ehinger2019unfold` — regression-based deconvolution complementing MNE.
-- `crosse2016mtrf` — temporal response function toolbox interoperable via NumPy.
-- `gorgolewski2016bids` — input data standard.
-- `robbins2021hed` — HED tags consumed via mne-bids.
+- `delorme2004eeglab`, MATLAB peer; many users move data between the two.
+- `ehinger2019unfold`, regression-based deconvolution complementing MNE.
+- `crosse2016mtrf`, temporal response function toolbox interoperable via NumPy.
+- `gorgolewski2016bids`, input data standard.
+- `robbins2021hed`, HED tags consumed via mne-bids.

@@ -51,8 +51,8 @@ NEMAR is the most directly aligned existing platform with AGI's vision for stimu
 ## Citations
 
 Primary: `delorme2022nemar`. Related:
-- `markiewicz2021openneuro` — upstream archive.
-- `delorme2004eeglab` — primary analysis toolbox routed via NSG.
-- `gorgolewski2016bids` — input data standard.
-- `robbins2021hed` — vocabulary that powers NEMAR search.
-- `halchenko2021datalad` — alternative distribution path for the same datasets.
+- `markiewicz2021openneuro`, upstream archive.
+- `delorme2004eeglab`, primary analysis toolbox routed via NSG.
+- `gorgolewski2016bids`, input data standard.
+- `robbins2021hed`, vocabulary that powers NEMAR search.
+- `halchenko2021datalad`, alternative distribution path for the same datasets.

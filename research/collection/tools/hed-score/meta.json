@@ -2,7 +2,7 @@
   "doi": "10.48550/arXiv.2310.15173",
   "source_url": "https://arxiv.org/abs/2310.15173",
   "retrieved_at": "2026-04-30",
-  "pdf_sha256": null,
+  "pdf_sha256": "6b3a53c85ef31fabf879f15d3aae8fab9df63d0b1b71a55872b84a80eb4e7d9b",
   "pdf_license": "preprint-cc",
   "redistribution_ok": true,
   "notes": "arXiv preprint of HED-SCORE library schema paper; published version forthcoming in Scientific Data 2025."

@@ -10,7 +10,7 @@ url: https://elifesciences.org/articles/77430
 license: CC-BY
 modalities: [fmri]
 tags: [event-segmentation, neural-states, narrative, cortical-hierarchy, theme-4]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

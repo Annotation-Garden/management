@@ -10,7 +10,7 @@ url: https://www.jneurosci.org/content/31/8/2906
 license: publisher-paywall
 modalities: [fmri]
 tags: [temporal-receptive-window, isc, narrative-scrambling, hierarchy, theme-3]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

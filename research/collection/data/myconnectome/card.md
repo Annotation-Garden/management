@@ -10,8 +10,8 @@ url: http://myconnectome.org/
 license: paper CC-BY 4.0; data CC-BY 4.0
 modalities: [fmri-3t, mri-anat, dti, behavior, phenotyping, multi-omics]
 tags: [cognitive-task, single-subject, deep-sampling, longitudinal, n=1, daily-scans, multi-omics]
-agi_relevance: medium
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: low
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

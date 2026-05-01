@@ -51,8 +51,8 @@ AGI's core repository pattern (one repository per stimulus, each containing stim
 ## Citations
 
 Primary: `halchenko2021datalad`. Related:
-- `gorgolewski2016bids` — primary data standard distributed via DataLad.
-- `markiewicz2021openneuro` — archive that mirrors datasets as DataLad super-datasets.
-- `wilkinson2016fair` — guiding principles DataLad implements.
-- `delavega2022neuroscout` — analysis platform consuming DataLad data.
-- `dandi2024` — sister archive using similar versioning ideas.
+- `gorgolewski2016bids`, primary data standard distributed via DataLad.
+- `markiewicz2021openneuro`, archive that mirrors datasets as DataLad super-datasets.
+- `wilkinson2016fair`, guiding principles DataLad implements.
+- `delavega2022neuroscout`, analysis platform consuming DataLad data.
+- `dandi2024`, sister archive using similar versioning ideas.

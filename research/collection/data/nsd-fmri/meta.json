@@ -5,5 +5,5 @@
   "pdf_sha256": null,
   "pdf_license": "publisher-paywall",
   "redistribution_ok": false,
-  "notes": "Nature Neuroscience descriptor paywalled. bioRxiv preprint (10.1101/2021.02.22.432340) is also gated behind Cloudflare from automated retrieval. Dataset itself is CC-BY-4.0 on s3://natural-scenes-dataset/. source.md compiled from public landing page and lit-review notes."
+  "notes": "originally cross-referenced with the internal ANNOTATE R01 lit review (private repo, annotate-r01-lit-review provenance not redistributable). Nature Neuroscience descriptor paywalled. bioRxiv preprint (10.1101/2021.02.22.432340) is also gated behind Cloudflare from automated retrieval. Dataset itself is CC-BY-4.0 on s3://natural-scenes-dataset/. source.md compiled from public landing page and lit-review notes."
 }

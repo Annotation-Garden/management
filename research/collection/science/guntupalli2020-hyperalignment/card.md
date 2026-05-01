@@ -10,7 +10,7 @@ url: https://elifesciences.org/articles/56601
 license: CC-BY
 modalities: [fmri]
 tags: [hyperalignment, idiosyncratic-topography, shared-response, naturalistic-movie, theme-3]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

@@ -51,8 +51,8 @@ GLMsingle is the canonical analysis bridge between AGI stimulus annotations and 
 ## Citations
 
 Primary: `prince2022glmsingle`. Related:
-- `esteban2019fmriprep` — upstream preprocessing pipeline.
-- `delavega2022neuroscout` — alternative analysis platform that consumes GLMsingle outputs.
-- `gorgolewski2016bids` — input format expected by the toolbox.
-- `markiewicz2021openneuro` — datasets where GLMsingle is most often applied.
-- `radford2021clip` — typical source of per-stimulus regressors used downstream.
+- `esteban2019fmriprep`, upstream preprocessing pipeline.
+- `delavega2022neuroscout`, alternative analysis platform that consumes GLMsingle outputs.
+- `gorgolewski2016bids`, input format expected by the toolbox.
+- `markiewicz2021openneuro`, datasets where GLMsingle is most often applied.
+- `radford2021clip`, typical source of per-stimulus regressors used downstream.

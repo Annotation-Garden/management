@@ -11,7 +11,7 @@ license: CC-BY-4.0 (data); paper paywalled (Nature Neuroscience)
 modalities: [fmri-7t, behavior]
 tags: [naturalistic-images, coco, deep-sampling, encoding-models, adults, n=8, ventral-stream]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

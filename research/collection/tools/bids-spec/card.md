@@ -37,7 +37,7 @@ BIDS, and specifically the events.tsv plus sidecar JSON pattern, is the substrat
 - File formats: NIfTI for imaging, JSON for metadata, TSV for tabular data.
 - Inheritance principle: metadata defined at higher folder levels propagate down unless overridden.
 - A reference Python and JavaScript validator enforces the spec (bids-validator).
-- Adopted by OpenNeuro, OpenfMRI legacy datasets, ABIDE, ADHD-200, and others.
+- Adopted as the storage and exchange format by OpenNeuro, NEMAR, fMRIPrep, MRIQC, and the broader BIDS-Apps ecosystem.
 - Uses Cognitive Atlas and Cognitive Paradigm Ontology for task vocabulary linkage.
 
 ## Open questions / limitations
@@ -51,8 +51,8 @@ BIDS, and specifically the events.tsv plus sidecar JSON pattern, is the substrat
 ## Citations
 
 Primary: `gorgolewski2016bids`. Related:
-- `markiewicz2021openneuro` — primary archive built on BIDS.
-- `halchenko2021datalad` — BIDS datasets distributed as DataLad super-datasets.
-- `robbins2021hed` — HED layered on top of BIDS events.
-- `bep044stimbids` — Stim-BIDS extension for stimulus repositories.
-- `esteban2019fmriprep` — flagship BIDS-App.
+- `markiewicz2021openneuro`, primary archive built on BIDS.
+- `halchenko2021datalad`, BIDS datasets distributed as DataLad super-datasets.
+- `robbins2021hed`, HED layered on top of BIDS events.
+- `bep044stimbids`, Stim-BIDS extension for stimulus repositories.
+- `esteban2019fmriprep`, flagship BIDS-App.

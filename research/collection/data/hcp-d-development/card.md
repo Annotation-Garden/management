@@ -10,7 +10,7 @@ url: https://www.humanconnectome.org/study/hcp-lifespan-development
 license: data-use-agreement (HCP / Connectome Coordination Facility); paper publisher
 modalities: [fmri-3t, mri-anat, dti, behavior, phenotyping]
 tags: [cognitive-task, hybrid, developmental, lifespan, reward, emotion, working-memory, n=1300, ages-5-21]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

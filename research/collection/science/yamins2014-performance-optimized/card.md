@@ -10,7 +10,7 @@ url: https://doi.org/10.1073/pnas.1403112111
 license: publisher-paywall
 modalities: [fmri, electrophysiology]
 tags: [encoding-model, deep-neural-network, ventral-stream, dnn-brain-alignment, object-recognition, theme-1]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

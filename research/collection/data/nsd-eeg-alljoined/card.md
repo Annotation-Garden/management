@@ -11,7 +11,7 @@ license: CC0 (deposit)
 modalities: [eeg, behavior]
 tags: [naturalistic-images, nsd, scalp-eeg, cross-modal, adults, n=8, alljoined]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-available

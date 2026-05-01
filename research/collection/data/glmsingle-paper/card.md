@@ -10,7 +10,7 @@ url: https://glmsingle.readthedocs.io/
 license: CC-BY-4.0
 modalities: [fmri, methods]
 tags: [single-stimulus-benchmark, methods, single-trial-betas, fractional-ridge, hrf-optimization, glmdenoise]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 

@@ -10,8 +10,8 @@ url: https://openneuro.org/datasets/ds000221
 license: CC0 (deposit); paper CC-BY 4.0
 modalities: [fmri-3t, mri-anat, dti, eeg, behavior, phenotyping]
 tags: [hybrid, multi-task, resting-state, lifespan, mind-body-emotion, leipzig, n=227, ages-20-77]
-agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: medium
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

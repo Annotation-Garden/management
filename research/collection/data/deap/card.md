@@ -10,8 +10,8 @@ url: https://www.eecs.qmul.ac.uk/mmv/datasets/deap/
 license: data-use-agreement (Queen Mary University of London)
 modalities: [eeg, peripheral-physio, video, behavior]
 tags: [hybrid, emotion-elicitation, music-videos, valence-arousal, n=32, adults, affective-computing]
-agi_relevance: medium
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: low
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

@@ -10,7 +10,7 @@ url: https://www.nature.com/articles/s41467-024-53147-y
 license: CC-BY
 modalities: [fmri]
 tags: [encoding-model, deep-neural-network, nsd, vision-transformer, inductive-bias, ventral-stream, theme-1]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

@@ -10,7 +10,7 @@ url: https://openneuro.org/datasets/ds002837
 license: CC0 (deposit); paper CC-BY
 modalities: [fmri-3t, behavior]
 tags: [naturalistic-video, feature-films, ten-films, adults, n=86, deep-sampling, cross-film]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

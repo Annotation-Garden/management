@@ -7,10 +7,10 @@ authors: [Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, 
 venue: ICML 2021
 doi: 10.48550/arXiv.2103.00020
 url: https://arxiv.org/abs/2103.00020
-license: MIT
+license: MIT (code); custom acceptable-use (released model checkpoints)
 modalities: [image, text, video]
 tags: [vision-language, contrastive, zero-shot, foundation-model, embedding, OpenAI, multimodal]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ CLIP is the dominant zero-shot annotator for the kinds of stimuli AGI hosts: sti
 ## Citations
 
 Primary: `radford2021clip`. Related:
-- `radford2023whisper` — companion audio model from the same group.
-- `liu2024groundingdino` — uses CLIP-style features for open-set detection.
-- `mcnamara2017pliers` — orchestration layer that wraps CLIP-style extractors.
-- `delavega2022neuroscout` — uses Pliers + CLIP for fMRI feature timelines.
-- `zhang2024llavavideo` — vision-language model that builds on CLIP visual encoders.
+- `radford2023whisper`, companion audio model from the same group.
+- `liu2024groundingdino`, uses CLIP-style features for open-set detection.
+- `mcnamara2017pliers`, orchestration layer that wraps CLIP-style extractors.
+- `delavega2022neuroscout`, uses Pliers + CLIP for fMRI feature timelines.
+- `zhang2024llavavideo`, vision-language model that builds on CLIP visual encoders.

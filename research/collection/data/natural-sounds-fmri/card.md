@@ -10,8 +10,8 @@ url: https://github.com/snormanhaignere/natural-sound-encoding-2015
 license: paper publisher (Cell Press); data CC-BY (deposit)
 modalities: [fmri-3t, audio-stimulus, behavior]
 tags: [naturalistic-audio, environmental-sounds, music, speech, auditory-cortex, adults, n=20+]
-agi_relevance: medium
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: low
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

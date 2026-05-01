@@ -7,15 +7,15 @@ authors: [Delorme, Makeig]
 venue: Journal of Neuroscience Methods
 doi: 10.1016/j.jneumeth.2003.10.009
 url: https://sccn.ucsd.edu/eeglab/
-license: BSD
+license: GPL-2.0-or-later
 modalities: [eeg, ieeg, meg]
 tags: [EEG, MATLAB, ICA, time-frequency, ERP-image, plugins, EEGLAB, SCCN]
 agi_relevance: high
 imported_from: null
 added: 2026-04-30
 
-pdf_status: archived
-pdf_path: source.pdf
+pdf_status: not-redistributable
+pdf_path: null
 md_path: source.md
 md_quality: clean
 ---
@@ -51,8 +51,8 @@ EEGLAB is the analysis endpoint for most of the EEG datasets that AGI's stimuli 
 ## Citations
 
 Primary: `delorme2004eeglab`. Related:
-- `gramfort2013mne` — Python alternative with overlapping scope.
-- `ehinger2019unfold` — EEGLAB-compatible regression deconvolution toolbox.
-- `crosse2016mtrf` — companion toolbox for continuous-stimulus models.
-- `delorme2022nemar` — archive that exposes EEGLAB-ready BIDS-EEG datasets.
-- `robbins2021hed` — HED tagging integrated as an EEGLAB plugin.
+- `gramfort2013mne`, Python alternative with overlapping scope.
+- `ehinger2019unfold`, EEGLAB-compatible regression deconvolution toolbox.
+- `crosse2016mtrf`, companion toolbox for continuous-stimulus models.
+- `delorme2022nemar`, archive that exposes EEGLAB-ready BIDS-EEG datasets.
+- `robbins2021hed`, HED tagging integrated as an EEGLAB plugin.

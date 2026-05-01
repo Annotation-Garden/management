@@ -10,7 +10,7 @@ url: https://www.cneuromod.ca/
 license: CC-BY-4.0 (paper); custom DUA (data, primarily Creative Commons-NC)
 modalities: [fmri-3t, eyetrack, behavior, audio-stimulus]
 tags: [naturalistic-video, friends-tv, movie10, deep-sampling, six-subjects, hundreds-of-hours, multi-task]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 

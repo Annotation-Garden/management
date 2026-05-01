@@ -10,7 +10,7 @@ url: https://www.fon.hum.uva.nl/praat/
 license: GPL-3.0
 modalities: [audio, behavior]
 tags: [Praat, phonetics, TextGrid, spectrogram, formants, pitch, scripting, linguistics]
-agi_relevance: medium
+agi_relevance: low
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For AGI's audio-bearing stimuli (Forrest Gump dialog, Pixar shorts, podcast exce
 ## Citations
 
 Primary: `boersma2024praat`. Related:
-- `wittenburg2006elan` — peer multi-tier annotation tool that imports TextGrids.
-- `friard2016boris` — peer event-logging tool for video plus audio.
-- `radford2023whisper` — companion ASR model whose transcripts feed Praat.
-- `gorgolewski2016bids` — target schema for TextGrid conversion.
-- `crosse2016mtrf` — analysis toolbox that consumes phonetic boundaries.
+- `wittenburg2006elan`, peer multi-tier annotation tool that imports TextGrids.
+- `friard2016boris`, peer event-logging tool for video plus audio.
+- `radford2023whisper`, companion ASR model whose transcripts feed Praat.
+- `gorgolewski2016bids`, target schema for TextGrid conversion.
+- `crosse2016mtrf`, analysis toolbox that consumes phonetic boundaries.

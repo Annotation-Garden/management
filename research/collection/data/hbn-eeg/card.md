@@ -11,10 +11,10 @@ license: CC-BY-4.0 (paper); data Creative Commons / Brain Imaging Data Structure
 modalities: [eeg, behavior]
 tags: [naturalistic-video, despicable-me, hbn-movies, hed-tagged, developmental, n>3000, ages-5-21]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
-pdf_status: not-redistributable
+pdf_status: not-available
 pdf_path: null
 md_path: source.md
 md_quality: rough
@@ -26,7 +26,7 @@ The Findable, Accessible, Interoperable, and Reusable (FAIR) re-release of the H
 
 ## Summary
 
-Shirazi et al. (2024) describe the HBN-EEG release: a Brain Imaging Data Structure (BIDS)-formatted, HED-tagged version of the EEG data collected by the Child Mind Institute Healthy Brain Network. The dataset spans more than 3,000 participants aged 5 to 21 with deep psychiatric phenotyping. The EEG protocol includes movie viewing (Despicable Me 10-minute clip; The Present 3.5-minute animated short; Diary of a Wimpy Kid Trailer; Fun with Fractals) and structured cognitive tasks (Resting State with eyes-open / eyes-closed, Surround Suppression, Contrast Change Detection, Symbol Search, Sequence Learning, Video-Decision-Making). Each task event is described with HED tags spanning sensory presentation, cognitive operation, motor response, and stimulus features. The release is the largest pediatric EEG dataset with naturalistic stimuli and the first large-scale HED Generation 3 deployment.
+Shirazi et al. (2024) describe the HBN-EEG release: a Brain Imaging Data Structure (BIDS)-formatted, HED-tagged version of the EEG data collected by the Child Mind Institute Healthy Brain Network. The dataset spans more than 3,000 participants aged 5 to 21 with deep psychiatric phenotyping. The EEG protocol includes movie viewing (Despicable Me 10-minute clip; The Present 3.5-minute animated short; Diary of a Wimpy Kid Trailer; Fun with Fractals) and structured cognitive tasks (Resting State with eyes-open / eyes-closed, Surround Suppression, Contrast Change Detection, Symbol Search, Sequence Learning, Video-Decision-Making). Each task event is described with HED tags spanning sensory presentation, cognitive operation, motor response, and stimulus features. The release is one of the largest pediatric EEG datasets with naturalistic stimuli and is the first large-scale pediatric naturalistic-movie EEG corpus published with HED Generation 3 sidecars.
 
 ## Relevance to Annotation Garden Initiative (AGI)
 

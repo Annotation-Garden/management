@@ -51,8 +51,8 @@ For AGI's fMRI-anchored datasets, especially Natural Scenes Dataset (NSD) and St
 ## Citations
 
 Primary: `esteban2017mriqc`. Related:
-- `esteban2019fmriprep` — companion preprocessing tool.
-- `gorgolewski2016bids` — input data standard.
-- `markiewicz2021openneuro` — archive that surfaces MRIQC reports.
-- `prince2022glmsingle` — downstream analysis that benefits from QC-filtered inputs.
-- `nichols2017cobidas` — community best-practice document that mandates QC reporting.
+- `esteban2019fmriprep`, companion preprocessing tool.
+- `gorgolewski2016bids`, input data standard.
+- `markiewicz2021openneuro`, archive that surfaces MRIQC reports.
+- `prince2022glmsingle`, downstream analysis that benefits from QC-filtered inputs.
+- `nichols2017cobidas`, community best-practice document that mandates QC reporting.

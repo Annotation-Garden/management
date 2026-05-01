@@ -5,5 +5,5 @@
   "pdf_sha256": null,
   "pdf_license": "publisher-paywall (Scientific Data CC-BY in principle, but PMC and Springer downloads gated by recaptcha)",
   "redistribution_ok": false,
-  "notes": "Multiple PDF download paths (doi.org, PMC, Europe PMC) returned recaptcha walls. Will retry once captcha-free OA mirror surfaces."
+  "notes": "originally cross-referenced with the internal ANNOTATE R01 lit review (private repo, annotate-r01-lit-review provenance not redistributable). Multiple PDF download paths (doi.org, PMC, Europe PMC) returned recaptcha walls. Will retry once captcha-free OA mirror surfaces."
 }

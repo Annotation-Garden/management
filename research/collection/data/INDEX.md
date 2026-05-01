@@ -1,10 +1,10 @@
-# Strand B — Data Index
+# Strand B, Data Index
 
 One-line summaries organized along the naturalistic ↔ cognitive-task spectrum. Read top-to-bottom to walk from richly-annotated naturalistic stimuli (NSD, studyforrest, HBN movies) toward minimally-annotated single-purpose cognitive tasks (Pinel localizer, HCP tasks).
 
 Notation: **N** = participants, **density** = annotation density (none / minimal / moderate / rich), **AGI hook** = why a Garden contributor would care.
 
-## Naturalistic — static images
+## Naturalistic, static images
 
 The visual-stimulus end of the AGI universe. Single image annotations (object segmentation, captions, affect ratings, Hierarchical Event Descriptor (HED) tags) propagate across paired functional Magnetic Resonance Imaging (fMRI), magnetoencephalography (MEG), electroencephalography (EEG), and intracranial EEG (iEEG) recordings.
 
@@ -20,7 +20,7 @@ The visual-stimulus end of the AGI universe. Single image annotations (object se
 | [`coco`](coco/) | 2014 | image (stimulus source) | n/a | rich | Upstream "annotation source of truth" for NSD, BOLD5000, Algonauts. |
 | [`glmsingle-paper`](glmsingle-paper/) | 2022 | fMRI methods | n/a (methods) | n/a | Reference single-trial estimation pipeline; required for stimulus-by-stimulus annotation analyses. |
 
-## Naturalistic — video / film
+## Naturalistic, video / film
 
 Long-form audiovisual stimuli. Annotation surface is the largest of any naturalistic-stimulus class: shot boundaries, character identity, emotion, theory-of-mind events, dialogue, sound design.
 
@@ -37,7 +37,7 @@ Long-form audiovisual stimuli. Annotation surface is the largest of any naturali
 | [`sherlock-fmri`](sherlock-fmri/) | 2017 | 3T fMRI | 17 | moderate | BBC Sherlock 50-min clip; canonical event-segmentation benchmark. |
 | [`inscapes`](inscapes/) | 2015 | 3T fMRI | 36 | minimal | Low-arousal abstract animation; ecologically richer than rest, narratively flat. |
 
-## Naturalistic — audio / narrative
+## Naturalistic, audio / narrative
 
 Spoken stories, podcasts, and audiobook stimuli. The audio counterpart to the static-image and video tracks. Annotations live at phoneme, word, sentence, narrative-event, and prosodic levels.
 

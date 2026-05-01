@@ -1,4 +1,4 @@
-# Annotation Garden — Research Corpus
+# Annotation Garden, Research Corpus
 
 Methodically collected literature, tools, and dataset metadata for the Annotation Garden Initiative.
 
@@ -11,7 +11,7 @@ research/
 │   ├── strand-A-tools.md
 │   ├── strand-B-data.md
 │   └── strand-C-science.md
-├── collection/                  # Phase 1 output — raw paper-cards
+├── collection/                  # Phase 1 output, raw paper-cards
 │   ├── _schema/paper-card.md    # shared template
 │   ├── tools/                   # Strand A
 │   │   ├── INDEX.md
@@ -45,7 +45,7 @@ note their source in the `imported_from` front-matter field.
 
 ## Phases
 
-- **Phase 1 (issue #4):** populate `collection/` — three parallel strand agents
+- **Phase 1 (issue #4):** populate `collection/`, three parallel strand agents
 - **Phase 2 (issue #5):** synthesize into `synthesis/` taxonomies and gap analysis
 - **Phase 3 (issue #6):** update `agi-white-paper.md` and draft direction documents
 

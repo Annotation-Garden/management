@@ -10,8 +10,8 @@ url: https://www.cam-can.org/
 license: data-use-agreement (Cambridge Centre for Ageing and Neuroscience); paper CC-BY 4.0
 modalities: [fmri-3t, mri-anat, dti, meg, eeg, behavior, phenotyping]
 tags: [cognitive-task, lifespan, aging, multimodal, n=700, ages-18-88, multi-task]
-agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: low
+imported_from: null
 added: 2026-04-30
 
 pdf_status: archived

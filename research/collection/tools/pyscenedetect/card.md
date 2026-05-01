@@ -10,7 +10,7 @@ url: https://github.com/Breakthrough/PySceneDetect
 license: BSD-3-Clause
 modalities: [video]
 tags: [PySceneDetect, scene-cut, shot-boundary, preprocessing, FFmpeg, video, HSV-difference]
-agi_relevance: high
+agi_relevance: medium
 imported_from: null
 added: 2026-04-30
 
@@ -51,8 +51,8 @@ For AGI's video stimulus repositories (Forrest Gump, Despicable Me, The Present,
 ## Citations
 
 Primary: `castellano2014pyscenedetect`. Related:
-- `zhang2024llavavideo` — companion video-language model for per-shot captions.
-- `radford2023whisper` — speech model often run alongside PySceneDetect on movie audio.
-- `mcnamara2017pliers` — orchestration tool that wraps shot detectors.
-- `delavega2022neuroscout` — analysis platform that consumes shot boundaries as predictors.
-- `gorgolewski2016bids` — target schema where shot lists become events.tsv rows.
+- `zhang2024llavavideo`, companion video-language model for per-shot captions.
+- `radford2023whisper`, speech model often run alongside PySceneDetect on movie audio.
+- `mcnamara2017pliers`, orchestration tool that wraps shot detectors.
+- `delavega2022neuroscout`, analysis platform that consumes shot boundaries as predictors.
+- `gorgolewski2016bids`, target schema where shot lists become events.tsv rows.

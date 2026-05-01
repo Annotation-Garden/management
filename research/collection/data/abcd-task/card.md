@@ -10,8 +10,8 @@ url: https://abcdstudy.org/
 license: data-use-agreement (NIMH Data Archive); paper publisher
 modalities: [fmri-3t, mri-anat, dti, behavior, phenotyping]
 tags: [cognitive-task, developmental, large-cohort, monetary-incentive-delay, n-back, stop-signal, n=11800, ages-9-10]
-agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+agi_relevance: medium
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-redistributable

@@ -11,7 +11,7 @@ license: data-use-agreement (Texas Medical Center / patient consent)
 modalities: [ieeg, behavior]
 tags: [naturalistic-images, nsd, intracranial, broadband-gamma, epilepsy-patients, n=12, ventral-stream]
 agi_relevance: high
-imported_from: grant-proposals/proposals/R01/2026-nlm-annotation/lit-review/Neuroimaging Annotation Paradigm Literature Review.md
+imported_from: null
 added: 2026-04-30
 
 pdf_status: not-available

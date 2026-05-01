@@ -51,8 +51,8 @@ For AGI's static-image stimulus repositories (Natural Scenes Dataset, COCO deriv
 ## Citations
 
 Primary: `liu2024groundingdino`. Related:
-- `radford2021clip` — language-vision backbone many open-set detectors build on.
-- `zhang2024llavavideo` — video-language alternative for high-level descriptions.
-- `mcnamara2017pliers` — orchestration tool that wraps detectors.
-- `labelstudio2020` — manual review interface for detector output.
-- `qin2025crowdagent` — multi-agent system that could route detector outputs to human review.
+- `radford2021clip`, language-vision backbone many open-set detectors build on.
+- `zhang2024llavavideo`, video-language alternative for high-level descriptions.
+- `mcnamara2017pliers`, orchestration tool that wraps detectors.
+- `labelstudio2020`, manual review interface for detector output.
+- `qin2025crowdagent`, multi-agent system that could route detector outputs to human review.

@@ -5,5 +5,5 @@
   "pdf_sha256": null,
   "pdf_license": "unknown",
   "redistribution_ok": false,
-  "notes": "Conference abstract only. No full descriptor paper at retrieval time. Dataset not on OpenNeuro; access via Tandon lab IRB-governed agreement."
+  "notes": "originally cross-referenced with the internal ANNOTATE R01 lit review (private repo, annotate-r01-lit-review provenance not redistributable). Conference abstract only. No full descriptor paper at retrieval time. Dataset not on OpenNeuro; access via Tandon lab IRB-governed agreement."
 }
