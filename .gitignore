@@ -15,3 +15,14 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Paywalled / publisher-copyrighted PDFs retrieved via institutional access for
+# offline markdown extraction. The PDFs themselves are NOT committed
+# (publisher redistribution rights not granted); the corresponding source.md
+# extractions are committed under research-notes fair use. See per-entry
+# meta.json `notes` for retrieval provenance.
+research/collection/science/baldassano2017-event-structure/source.pdf
+research/collection/science/hasson2004-intersubject-synchronization/source.pdf
+research/collection/science/haxby2011-common-high-dim-model/source.pdf
+research/collection/science/huth2016-semantic-maps/source.pdf
+research/collection/science/yamins2014-performance-optimized/source.pdf

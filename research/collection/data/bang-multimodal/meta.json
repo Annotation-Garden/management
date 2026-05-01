@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://openneuro.org/datasets/ds004798",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "not-applicable",
+  "redistribution_ok": false,
+  "notes": "originally cross-referenced with the internal ANNOTATE R01 lit review (private repo, annotate-r01-lit-review provenance not redistributable). OpenNeuro deposit only; no standalone Scientific Data descriptor at retrieval. Companion analysis paper (Zheng 2022 Nat Neurosci) is paywalled. Notes compiled from OpenNeuro README and analysis paper figshare release (25037045)."
+}

@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://github.com/bids-standard/bids-validator",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "not-applicable",
+  "redistribution_ok": true,
+  "notes": "Open-source tool with no primary paper; source.md is README snapshot. License is MIT."
+}

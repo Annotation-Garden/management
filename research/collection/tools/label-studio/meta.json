@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://github.com/HumanSignal/label-studio",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "not-applicable",
+  "redistribution_ok": true,
+  "notes": "Open-source tool with no canonical paper; source.md is README / docs snapshot. License Apache-2.0."
+}
