@@ -1,0 +1,9 @@
+{
+  "doi": "10.1038/s41597-025-05174-7",
+  "source_url": "https://openneuro.org/datasets/ds005811",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "publisher-paywall (Scientific Data CC-BY in principle, but PMC and Springer downloads gated by recaptcha)",
+  "redistribution_ok": false,
+  "notes": "Multiple PDF download paths (doi.org, PMC, Europe PMC) returned recaptcha walls. Will retry once captcha-free OA mirror surfaces."
+}
