@@ -1,11 +1,5 @@
-# Planning documents (should not be committed)
-plan.md
-ideas.md
-scratch_notes.md
-research.md
-
-# CLAUDE.md should be ignored in git per user instructions
-CLAUDE.md
+# Claude Code per-session local state (epic-dev workflow, etc.)
+.claude/*.local.md
 
 # OS files
 .DS_Store
