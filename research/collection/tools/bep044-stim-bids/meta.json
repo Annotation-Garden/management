@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://github.com/bids-standard/bids-specification/pull/2022",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "CC-BY",
+  "redistribution_ok": true,
+  "notes": "BEP044 is a BIDS Extension Proposal in active review; no formal paper or PDF, source.md captures the proposal status."
+}

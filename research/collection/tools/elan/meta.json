@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://archive.mpi.nl/tla/elan",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "publisher-paywall",
+  "redistribution_ok": false,
+  "notes": "LREC 2006 proceedings PDF is technically open via lrec-conf.org but the canonical artifact is the ELAN application; using README snapshot as source.md. No DOI in LREC archive."
+}

@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://www.fon.hum.uva.nl/praat/",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "not-applicable",
+  "redistribution_ok": true,
+  "notes": "Open-source tool with no canonical paper; source.md captures the project landing page and citation form. License GPL-3.0."
+}
