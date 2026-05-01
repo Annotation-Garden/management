@@ -17,7 +17,7 @@ added: 2026-04-30
 pdf_status: not-redistributable
 pdf_path: null
 md_path: source.md
-md_quality: abstract-only
+md_quality: clean
 ---
 
 ## TL;DR

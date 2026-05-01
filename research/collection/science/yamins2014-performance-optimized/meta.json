@@ -1,9 +1,9 @@
 {
   "doi": "10.1073/pnas.1403112111",
   "source_url": "https://doi.org/10.1073/pnas.1403112111",
-  "retrieved_at": "2026-04-30",
+  "retrieved_at": "2026-05-01",
   "pdf_sha256": null,
   "pdf_license": "publisher-paywall",
   "redistribution_ok": false,
-  "notes": "PNAS PDF blocked by Cloudflare; PMC4060707 also CAPTCHA-fronted. source.md contains PubMed-extracted abstract."
+  "notes": "Full publisher PDF retrieved 2026-04-30 via UCSD institutional access for offline markdown extraction. PDF is publisher-copyrighted and is NOT committed to this public repo (gitignored at research/collection/science/yamins2014-performance-optimized/source.pdf). The committed source.md is a clean pdftotext extraction of the full text, kept under research-notes fair use. To regenerate: download from publisher with institutional access and run pdftotext -layout."
 }
