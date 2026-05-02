@@ -130,7 +130,7 @@ A reader could argue that AGI is taking on too much: integrating five Layer 1 to
 
 ## 7. Conclusion
 
-The FAIR neuroscience commons has a missing middleware layer at the contract between annotation production and annotation consumption. The Phase 1 corpus shows that the upstream and downstream sides of the contract are well-served; the contract itself is not written. AGI's distinctive technical commitment is to write it and to ship it as a versioned adapter library. The build order is concrete: Wave 1 demonstrates the round-trip on Forrest Gump, Wave 2 automates the AI annotator stack on NSD, Wave 3 deploys multi-source quality control on HBN movies. The composition argument is not a software-engineering claim but an institutional one: the field needs a single body to write the contract, and AGI is the candidate body.
+The FAIR neuroscience commons has a missing middleware layer at the contract between annotation production and annotation consumption. The Phase 1 corpus shows that the upstream and downstream sides are well-served; the contract is not written. AGI's distinctive commitment is to write it and ship it as a versioned adapter library. The build order is concrete: Wave 1 round-trips ELAN on Forrest Gump, Wave 2 automates the AI stack on NSD, Wave 3 deploys multi-source quality control on HBN movies. The composition argument is institutional rather than software-engineering: the field needs one body to write the contract, and AGI is that body.
 
 ## References
 
