@@ -1,0 +1,9 @@
+{
+  "doi": null,
+  "source_url": "https://dandiarchive.org",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "not-applicable",
+  "redistribution_ok": true,
+  "notes": "Open archive with no single primary paper; source.md is canonical README snapshot. Software BSD-3-Clause; dataset licenses per asset."
+}

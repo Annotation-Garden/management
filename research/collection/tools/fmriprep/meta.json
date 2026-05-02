@@ -1,0 +1,9 @@
+{
+  "doi": "10.1038/s41592-018-0235-4",
+  "source_url": "https://www.nature.com/articles/s41592-018-0235-4",
+  "retrieved_at": "2026-04-30",
+  "pdf_sha256": null,
+  "pdf_license": "publisher-paywall",
+  "redistribution_ok": false,
+  "notes": "Nature Methods PDF is paywalled; source.md captures abstract-level summary plus README snapshot. Tool itself is Apache-2.0."
+}

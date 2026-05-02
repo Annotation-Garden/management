@@ -1,0 +1,9 @@
+{
+  "doi": "10.1038/nature17637",
+  "source_url": "https://www.nature.com/articles/nature17637",
+  "retrieved_at": "2026-05-01",
+  "pdf_sha256": null,
+  "pdf_license": "publisher-paywall",
+  "redistribution_ok": false,
+  "notes": "Full publisher PDF retrieved 2026-04-30 via UCSD institutional access for offline markdown extraction. PDF is publisher-copyrighted and is NOT committed to this public repo (gitignored at research/collection/science/huth2016-semantic-maps/source.pdf). The committed source.md is a clean pdftotext extraction of the full text, kept under research-notes fair use. To regenerate: download from publisher with institutional access and run pdftotext -layout."
+}
