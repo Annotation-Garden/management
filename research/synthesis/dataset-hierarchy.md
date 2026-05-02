@@ -49,7 +49,7 @@ Long-form audiovisual stimuli. Annotation surface is the largest of any class (s
 | [`hbn-mri`](../collection/data/hbn-mri/card.md) | video | fMRI 3T, MRI, EEG, behavior | minimal | 5,000+ | restricted (CMI DUA) | phase-1 |
 | [`hbn-eeg`](../collection/data/hbn-eeg/card.md) | video | high-density EEG | rich (HED-tagged) | 3,000+ | open (BIDS) | phase-1 |
 | [`bang-ieeg-fmri`](../collection/data/bang-ieeg-fmri/card.md) | video | iEEG, fMRI 3T | moderate | 51 plus 30 | restricted (clinical) | second-wave |
-| [`bang-multimodal`](../collection/data/bang-multimodal/card.md) | video | iEEG plus single-unit, fMRI | rich | 29 | restricted (Cedars-Sinai or Caltech DUA) | second-wave |
+| [`bang-multimodal`](../collection/data/bang-multimodal/card.md) | video | iEEG plus single-unit, fMRI | rich | 29 | restricted (raw data, Cedars-Sinai / Caltech IRB DUA) plus CC0 metadata | second-wave |
 | [`naturalistic-neuroimaging-db`](../collection/data/naturalistic-neuroimaging-db/card.md) | video | fMRI 3T | minimal | 86 | open | phase-2-candidate |
 | [`courtois-neuromod`](../collection/data/courtois-neuromod/card.md) | video | fMRI 3T, eye tracking | minimal-to-moderate | 6 | restricted (CC-NC custom DUA) | phase-2-candidate |
 | [`sherlock-fmri`](../collection/data/sherlock-fmri/card.md) | video | fMRI 3T | moderate | 17 | restricted (DUA), pointer for stimulus | second-wave |

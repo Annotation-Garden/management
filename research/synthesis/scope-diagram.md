@@ -2,7 +2,7 @@
 
 A side-by-side framing piece. Reads first in the [Phase 3 reading order](./README.md), because every downstream Phase 3 deliverable depends on the reader knowing that the Annotation Garden Initiative (AGI) and the ANNOTATE R01 are complementary, not competing.
 
-Abbreviations: National Library of Medicine (NLM), Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Natural Scenes Dataset (NSD), Healthy Brain Network (HBN), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), functional magnetic resonance imaging (fMRI), data-use agreement (DUA), foundation model (FM).
+Abbreviations: National Library of Medicine (NLM), Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Findable, Accessible, Interoperable, Reusable (FAIR), Natural Scenes Dataset (NSD), Healthy Brain Network (HBN), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), functional magnetic resonance imaging (fMRI), data-use agreement (DUA), foundation model (FM).
 
 ## Side-by-side dimensions
 
@@ -11,7 +11,7 @@ Abbreviations: National Library of Medicine (NLM), Hierarchical Event Descriptor
 | Type | Funded research project, principal-investigator-led | Open infrastructure, community-governed |
 | Funding model | Five-year NLM grant | Mixed: project staffing during overlap with ANNOTATE; community contribution thereafter |
 | Scope of authorship | Defined investigator team | Anyone with a pull request |
-| Datasets in scope | NSD ([`nsd-fmri`](../collection/data/nsd-fmri/card.md), [`nsd-ieeg`](../collection/data/nsd-ieeg/card.md), [`nsd-eeg-alljoined`](../collection/data/nsd-eeg-alljoined/card.md)), HBN ([`hbn-eeg`](../collection/data/hbn-eeg/card.md), [`hbn-mri`](../collection/data/hbn-mri/card.md)), StudyForrest ([`studyforrest`](../collection/data/studyforrest/card.md)) | All naturalistic and cognitive-task datasets reachable via Stim-BIDS, see [`dataset-hierarchy`](./dataset-hierarchy.md) |
+| Datasets in scope | NSD ([`nsd-fmri`](../collection/data/nsd-fmri/card.md), [`nsd-ieeg`](../collection/data/nsd-ieeg/card.md), [`nsd-eeg-alljoined`](../collection/data/nsd-eeg-alljoined/card.md)) for Aim 1; HBN-EEG ([`hbn-eeg`](../collection/data/hbn-eeg/card.md)) and StudyForrest ([`studyforrest`](../collection/data/studyforrest/card.md)) for Aim 3 generalization. The R01 specific aims cite HBN only for EEG validation; HBN-MRI is not explicitly in scope. | All naturalistic and cognitive-task datasets reachable via Stim-BIDS, see [`dataset-hierarchy`](./dataset-hierarchy.md) |
 | Modalities in scope | EEG, iEEG, fMRI | Plus MEG, eye-tracking, peripheral physiology, behavior, multi-omics |
 | Annotation production | Empirical curves at five richness levels on NSD; HEDit-driven multi-agent generation; video extension of HEDit | Community accumulation via pull requests; multi-source orchestration via [`crowdagent`](../collection/tools/crowdagent/card.md)-pattern adapters |
 | Tools relied on | HEDit, [`eeglab`](../collection/tools/eeglab/card.md), [`neuroscout`](../collection/tools/neuroscout/card.md) pipelines | HEDit plus [`elan`](../collection/tools/elan/card.md) plus [`praat`](../collection/tools/praat/card.md) plus [`boris`](../collection/tools/boris/card.md) plus [`datavyu`](../collection/tools/datavyu/card.md) plus [`label-studio`](../collection/tools/label-studio/card.md) plus Layer-2 AI annotators (see [`tool-ontology`](./tool-ontology.md)) |

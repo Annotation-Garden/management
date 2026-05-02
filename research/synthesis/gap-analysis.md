@@ -4,11 +4,11 @@ A three-column accounting of what the ANNOTATE R01 covers, what the current AGI 
 
 Sources for the columns:
 
-- **ANNOTATE R01**, drawn from [`specific-aims.tex`](file:///Users/yahya/Documents/git/grant-proposals/proposals/R01/2026-nlm-annotation/submission/specific-aims.tex), Aims 1, 2, 3, plus the research-strategy section list (Significance, Innovation, Approach with Aims 1, 2, 3, Rigor and Reproducibility, Timeline, Summary).
+- **ANNOTATE R01**, drawn from `specific-aims.tex` and `research-strategy.tex` in the internal grant-proposals repository at `R01/2026-nlm-annotation/submission/`. Aims 1, 2, 3, plus the research-strategy section list (Significance, Innovation, Approach with Aims 1, 2, 3, Rigor and Reproducibility, Timeline, Summary).
 - **AGI white paper**, drawn from [`agi-white-paper.md`](../../agi-white-paper.md) and the supporting [`VISION.md`](../../VISION.md).
 - **Uncovered terrain**, derived from the [`tool-ontology`](./tool-ontology.md), [`dataset-hierarchy`](./dataset-hierarchy.md), and [`science-map`](./science-map.md) syntheses.
 
-Abbreviations: Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Natural Scenes Dataset (NSD), Healthy Brain Network (HBN), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), data-use agreement (DUA), foundation model (FM), large language model (LLM), vision-language model (VLM).
+Abbreviations: Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Findable, Accessible, Interoperable, Reusable (FAIR), Natural Scenes Dataset (NSD), Healthy Brain Network (HBN), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), data-use agreement (DUA), foundation model (FM), large language model (LLM), vision-language model (VLM).
 
 ## Topic-by-topic comparison
 
@@ -19,7 +19,7 @@ Abbreviations: Hierarchical Event Descriptors (HED), Brain Imaging Data Structur
 | Datasets covered | NSD (deep), HBN (validation), StudyForrest (validation) | Same three flagships, plus aspirational reach to OpenNeuro datasets | Cognitive task batteries (gap 1), second-wave naturalistic datasets (gap 5), hybrid task-naturalistic datasets (gap 7) |
 | Modalities covered | EEG, iEEG, fMRI | Same three plus aspirational MEG | MEG concretely; eye-tracking, peripheral physiology, behavioral phenotyping (sub-gap of gap 1 below) |
 | Tools used | HEDit, EEGLAB, NeuroScout pipelines | HEDit-class platform, generic GitHub workflows, automated annotators | Broad annotation tooling beyond neuroimaging-native (gap 2); explicit BIDS-Validator and HED-validator integration in CI |
-| Standards anchored | HED Generation 3, BIDS, BEP044 implicit | BIDS, Stim-BIDS BEP044, HED, references DataLad informally | DataLad provenance and credit infrastructure as an explicit AGI commitment (gap 3) |
+| Standards anchored | HED Generation 3, BIDS, DataLad (explicit in team description); BEP044 not named | BIDS, Stim-BIDS BEP044, HED, references DataLad informally | DataLad provenance as an explicit AGI commitment plus credit-attribution infrastructure on top (gap 3) |
 | Governance | Out of scope (it is a research grant) | Open-source code, openly licensed annotations, transparent governance asserted but not specified | FAIR commons governance, deprecation policy, fork etiquette, version sunset (gap 8) |
 | Time horizon | Five-year project | Indefinite, three-phase rollout | Sustainability planning beyond initial NIH funding |
 

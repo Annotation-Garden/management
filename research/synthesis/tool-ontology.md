@@ -97,7 +97,7 @@ Three observations bind the layers together:
 
 2. **The maturity gradient runs the wrong way for AGI's roadmap.** Manual annotators (Layer 1) are the most mature and the least HED-aware; AI annotators (Layer 2) are the least mature and the most format-agnostic. AGI must invest disproportionately in the youngest tools to set the format expectations early. CrowdAgent is the canonical pattern.
 
-3. **Licensing favors aggregation.** Twenty-eight of 33 entries carry permissive licenses (MIT, BSD, Apache, CC-BY, CC0, GPL with linking exceptions or no linking required). NEMAR is CC-BY-NC, which constrains downstream commercial reuse but does not impede AGI's mission. CLIP and HuggingFace model checkpoints carry per-model terms requiring per-stimulus diligence; AGI's federation model handles this gracefully because annotations can be permissively licensed even when stimulus-specific weights cannot.
+3. **Licensing favors aggregation.** Twenty-six of 33 entries carry permissive licenses (MIT, BSD, Apache, CC-BY, CC0). Six entries are copyleft GPL (ELAN, Praat, BORIS, Datavyu, EEGLAB, Unfold); this requires derivative works that link or modify the source to be released under the same terms but does not impede AGI's mission because AGI consumes their file-format outputs rather than redistributing modified binaries. NEMAR is CC-BY-NC, which constrains downstream commercial reuse but does not impede non-commercial research re-use. CLIP and HuggingFace model checkpoints carry per-model terms requiring per-stimulus diligence; AGI's federation model handles this gracefully because annotations can be permissively licensed even when stimulus-specific weights cannot.
 
 ## Coverage check
 

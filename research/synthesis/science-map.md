@@ -2,7 +2,7 @@
 
 Walk through the 30 Strand C papers in [`research/collection/science/`](../collection/science/), grouped by the seven methodological themes already used in [`science/INDEX.md`](../collection/science/INDEX.md). Each theme records representative work, methodological maturity, distilled open questions from the per-card "Open questions / limitations" sections, and the annotation-infrastructure dependencies that feed back into AGI's roadmap.
 
-Abbreviations: large language model (LLM), vision-language model (VLM), inter-subject correlation (ISC), temporal receptive window (TRW), hidden Markov model (HMM), generalized linear model (GLM), representational similarity analysis (RSA), Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Natural Scenes Dataset (NSD), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), functional magnetic resonance imaging (fMRI).
+Abbreviations: large language model (LLM), vision-language model (VLM), inter-subject correlation (ISC), temporal receptive window (TRW), hidden Markov model (HMM), generalized linear model (GLM), representational similarity analysis (RSA), Hierarchical Event Descriptors (HED), Brain Imaging Data Structure (BIDS), Natural Scenes Dataset (NSD), Healthy Brain Network (HBN), magnetoencephalography (MEG), electroencephalography (EEG), intracranial EEG (iEEG), functional magnetic resonance imaging (fMRI).
 
 ## Maturity legend
 
@@ -22,11 +22,11 @@ Abbreviations: large language model (LLM), vision-language model (VLM), inter-su
 
 **Maturity**: well-established for the linear voxel-wise framework; active for deep-network feature spaces; nascent for the question of whether annotations themselves (rather than feature embeddings derived from generic web data) yield additive variance.
 
-**Open questions distilled from the cards**:
-- Lexical embeddings (Huth 2016) ignore context that LLM contextual embeddings (LeBel 2023, Antonello 2023) capture; how much of the variance gap is closed by annotation richness rather than embedding sophistication is unanswered.
-- Cross-stimulus generalization is mostly absent (Conwell 2024 plateaus on NSD; whether dynamic, narrative, or multi-modal stimuli would reveal new inductive-bias differences is open).
-- No paper directly tests whether **annotation-conditioned** training (e.g., HED-grounded captions) yields different encoding behavior from generic captions.
-- Compute cost is large and replication-limiting. AGI commons could provide pre-computed embeddings for canonical stimuli to allow community replication without 7-billion-parameter inference.
+**Open questions distilled from the cards** (each bullet attributes its source card):
+- *Huth 2016*: lexical embeddings ignore context that LLM contextual embeddings (LeBel 2023, Antonello 2023) capture; how much of the variance gap is closed by annotation richness rather than embedding sophistication is unanswered. Also, only seven subjects are deeply sampled, so cross-subject generalizability and population variance are untested.
+- *Conwell 2024*: cross-stimulus generalization is mostly absent because the saturation plateau may be specific to NSD's static-image, COCO-derived stimuli; whether dynamic, narrative, or multi-modal stimuli reveal new inductive-bias differences is open.
+- *Cross-card*: no paper in the theme directly tests whether **annotation-conditioned** training (e.g., HED-grounded captions) yields different encoding behavior from generic captions.
+- *Antonello 2023*: compute cost is large and replication-limiting. AGI commons could provide pre-computed embeddings for canonical stimuli to allow community replication without 7-billion-parameter inference.
 
 **Annotation-infrastructure dependency**: per-stimulus features are the input. Today every encoding study computes them in-house. AGI's contribution is canonical, versioned, HED-tagged feature layers that any encoder can subscribe to.
 
@@ -102,7 +102,7 @@ Abbreviations: large language model (LLM), vision-language model (VLM), inter-su
 
 **Open questions distilled from the cards**:
 - Pretraining data is dominated by clinical recordings; naturalistic-stimulus EEG and iEEG are under-represented (Jiang 2024, Han 2025). HBN-EEG and NSD-EEG are the obvious counterweight.
-- No theme-5 model has been pretrained with **annotation supervision**; the Xiong 2025 review names this absence as a likely cause of weak downstream performance.
+- No theme-5 model has been pretrained with **annotation supervision**; the Xiong 2025 card flags this absence as "a possibly missing ingredient" worth investigating, without claiming causal certainty.
 - Annotation-response evaluation is absent: no theme-5 paper characterizes how downstream accuracy scales with task-specific annotated data on top of pretraining (a Theme-6 sufficiency question).
 - Cross-modality alignment (EEG to fMRI to behavior on shared subjects) is unaddressed.
 - Privacy and consent for cross-dataset model release is informal; AGI's commons would need a formal opt-in framework (Lahner 2025).
@@ -117,7 +117,7 @@ Abbreviations: large language model (LLM), vision-language model (VLM), inter-su
 | [`naspi2021-perceptual-semantic`](../collection/science/naspi2021-perceptual-semantic/card.md) | 2021 | fMRI | Annotation-granularity dissociates true vs false memory in ventral-temporal cortex |
 | [`lebel2023-natural-language-fmri`](../collection/science/lebel2023-natural-language-fmri/card.md) | 2023 | fMRI | Open 27+ hour per-subject narrative-listening fMRI benchmark |
 
-**Maturity**: nascent. This theme is the gap that the [ANNOTATE R01 specific aims](https://github.com/Annotation-Garden/management/issues/3) explicitly target.
+**Maturity**: nascent. This theme is the gap that the ANNOTATE R01 specific aims (`R01/2026-nlm-annotation/submission/specific-aims.tex` in the internal grant-proposals repository) explicitly target.
 
 **Open questions distilled from the cards**:
 - Antonello 2023 scaling laws hold for fewer than five subjects on a single English narrative; non-narrative, multilingual, and cross-modality scaling is unknown.

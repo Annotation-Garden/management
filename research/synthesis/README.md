@@ -2,6 +2,8 @@
 
 Phase 2 of the Annotation Garden Initiative (AGI) research foundation epic ([issue #3](https://github.com/Annotation-Garden/management/issues/3)) cross-references the [Phase 1 corpus](../collection/) into structured synthesis artifacts. No white-paper drafting or new direction documents live here, that is Phase 3.
 
+Abbreviations used across all six docs: Brain Imaging Data Structure (BIDS), Hierarchical Event Descriptors (HED), Findable, Accessible, Interoperable, Reusable (FAIR). Each individual doc redefines these and any other abbreviations on their first use within that doc.
+
 ## Documents
 
 - [`tool-ontology.md`](./tool-ontology.md), hierarchical map of the 33 tool, platform, and standard entries grouped into five layers, with per-node maturity, BIDS integration, HED integration, license, and AGI relevance.
